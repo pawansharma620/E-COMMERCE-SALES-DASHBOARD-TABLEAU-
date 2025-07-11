@@ -21,3 +21,6 @@ Track year-to-date sales performance at a glance. Analyze sales trends over time
 
 # Data Analysts :-
 Tableau Features Utilized- Interactive Filters (by region, product category, date range) KPI Cards for headline metrics Dynamic Maps for regional analysis Drill-down and Tooltip Details Parameter Controls for comparing YTD vs. prior year
+
+# ONLINE DATASORCE : 
+<a href "https://public.tableau.com/app/profile/kishan.jha/viz/E_Commerce_Dashboard_17521290139520/Dashboard1?publish=yes"</a>
